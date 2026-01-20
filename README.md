@@ -267,27 +267,6 @@ MIT License. Because even terrible ideas deserve to be free.
 
 Use it for good (teaching), use it for evil (pranks), just don't blame me when your team stops talking to you.
 
-## Final Thoughts
-
-Is this a good idea? No.  
-Did I build it anyway? Yes.  
-Should you use it? Probably not.  
-Will you use it? Probably yes.  
-Am I responsible for the consequences? Absolutely not.
-
-Look, we've all seen terrible code. Legacy projects from 2008 that have tabs, spaces, and whatever the hell "smart quotes" are all mixed together. Code written by contractors who were paid by the line. That one PHP project that... actually, let's not talk about PHP.
-
-CodeShittifier isn't creating anything new. It's just automating the chaos that already exists in production somewhere. At least this way, it's intentional.
-
-Now go forth and make some terrible code. For education. Definitely for education.
-
----
-
-**Made with equal parts sarcasm and actual Java knowledge by a developer who's seen things. Terrible things.**
-
-*"Any code you can't read is indistinguishable from obfuscation." - Arthur C. Clarke (probably)*
-
----
 
 ### Star This Repo If:
 - You've worked on legacy code
