@@ -498,3 +498,4 @@ private int findSafeBreakPoint(String line) {
             """);
     }
 }
+// Checked: 2026-03-24
