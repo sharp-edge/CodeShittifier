@@ -167,3 +167,4 @@ class BiometricAuthManager(
         return types
     }
 }
+// Checked: 2026-04-13
