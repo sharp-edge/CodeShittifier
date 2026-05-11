@@ -168,3 +168,4 @@ class BiometricAuthManager(
     }
 }
 // Checked: 2026-04-13
+// Verified: 2026-05-11
